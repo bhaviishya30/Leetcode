@@ -10,6 +10,7 @@ class Solution {
             if(!Character.isLetterOrDigit(s.charAt(left))){
                 left++;
                 continue;
+                
             }
             
             if(!Character.isLetterOrDigit(s.charAt(right))){
