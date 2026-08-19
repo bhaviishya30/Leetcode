@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bhaviishya30/Leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/bhaviishya30/Leetcode/tree/master/0283-move-zeroes) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhaviishya30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Two Pointers
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhaviishya30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/bhaviishya30/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
