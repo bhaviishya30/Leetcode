@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhaviishya30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhaviishya30/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
