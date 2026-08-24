@@ -10,20 +10,15 @@ class Solution {
                 max=nums[i];
             }
         }
-        int [] res = new int[max];
-        int j=0;
-        for(int i=1;i<=max;i++){
-            if(min%i==0 && max%i==0){
-              res[j]=i;
-            }
-        }
-        int resmax=Integer.MIN_VALUE;
-        for(int i=0;i<res.length;i++){
-            if(resmax<res[i]){
-                resmax=res[i];
-            }
-        }
-        return resmax;
+     int resmax = 0;
+
+for(int i = 1; i <= min; i++){
+    if(min % i == 0 && max % i == 0){
+        resmax = i;
+    }
+}
+
+return resmax;
          
         
         
