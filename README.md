@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhaviishya30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/bhaviishya30/Leetcode/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhaviishya30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaviishya30/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bhaviishya30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhaviishya30/Leetcode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
