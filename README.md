@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhaviishya30/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bhaviishya30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/bhaviishya30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/bhaviishya30/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/bhaviishya30/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhaviishya30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/bhaviishya30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhaviishya30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhaviishya30/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/bhaviishya30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhaviishya30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
