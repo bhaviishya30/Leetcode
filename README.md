@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bhaviishya30/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhaviishya30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaviishya30/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhaviishya30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/bhaviishya30/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/bhaviishya30/Leetcode/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/bhaviishya30/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/bhaviishya30/Leetcode/tree/master/2235-add-two-integers) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhaviishya30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/bhaviishya30/Leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,4 +184,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/bhaviishya30/Leetcode/tree/master/0389-find-the-difference) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
