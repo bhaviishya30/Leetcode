@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhaviishya30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/bhaviishya30/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/bhaviishya30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bhaviishya30/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhaviishya30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaviishya30/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/bhaviishya30/Leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/bhaviishya30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bhaviishya30/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhaviishya30/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prime Factorization
