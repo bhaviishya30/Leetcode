@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaviishya30/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhaviishya30/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhaviishya30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3467-transform-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bhaviishya30/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bhaviishya30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bhaviishya30/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhaviishya30/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhaviishya30/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prime Factorization
 |  |
