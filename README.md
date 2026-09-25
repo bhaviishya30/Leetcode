@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/bhaviishya30/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhaviishya30/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhaviishya30/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3813-vowel-consonant-score](https://github.com/bhaviishya30/Leetcode/tree/master/3813-vowel-consonant-score) |
 ## Sorting
 |  |
 | ------- |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/bhaviishya30/Leetcode/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/bhaviishya30/Leetcode/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
