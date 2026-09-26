@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhaviishya30/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bhaviishya30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhaviishya30/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bhaviishya30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bhaviishya30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhaviishya30/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bhaviishya30/Leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhaviishya30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhaviishya30/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhaviishya30/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhaviishya30/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bhaviishya30/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/bhaviishya30/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaviishya30/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhaviishya30/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bhaviishya30/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhaviishya30/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/bhaviishya30/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhaviishya30/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/bhaviishya30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhaviishya30/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhaviishya30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bhaviishya30/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/bhaviishya30/Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bhaviishya30/Leetcode/tree/master/0389-find-the-difference) |
 ## Minimax
 |  |
