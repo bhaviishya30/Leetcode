@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhaviishya30/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhaviishya30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/bhaviishya30/Leetcode/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3467-transform-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhaviishya30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bhaviishya30/Leetcode/tree/master/0567-permutation-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhaviishya30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/bhaviishya30/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/bhaviishya30/Leetcode/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhaviishya30/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhaviishya30/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/bhaviishya30/Leetcode/tree/master/3813-vowel-consonant-score) |
