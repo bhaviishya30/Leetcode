@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhaviishya30/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhaviishya30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/bhaviishya30/Leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/bhaviishya30/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhaviishya30/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaviishya30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bhaviishya30/Leetcode/tree/master/0567-permutation-in-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhaviishya30/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhaviishya30/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Queue
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bhaviishya30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhaviishya30/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3467-transform-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhaviishya30/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
