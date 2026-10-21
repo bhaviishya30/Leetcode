@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhaviishya30/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/bhaviishya30/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/bhaviishya30/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/bhaviishya30/Leetcode/tree/master/2235-add-two-integers) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/bhaviishya30/Leetcode/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/bhaviishya30/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/bhaviishya30/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3813-vowel-consonant-score](https://github.com/bhaviishya30/Leetcode/tree/master/3813-vowel-consonant-score) |
 ## Floyd's Cycle Finding Algorithm
