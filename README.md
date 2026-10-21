@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhaviishya30/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/bhaviishya30/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhaviishya30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/bhaviishya30/Leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/bhaviishya30/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhaviishya30/Leetcode/tree/master/0048-rotate-image) |
+| [1572-matrix-diagonal-sum](https://github.com/bhaviishya30/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Bucket Sort
 |  |
 | ------- |
