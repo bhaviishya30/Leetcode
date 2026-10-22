@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/bhaviishya30/Leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/bhaviishya30/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhaviishya30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhaviishya30/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3467-transform-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhaviishya30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhaviishya30/Leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhaviishya30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhaviishya30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bhaviishya30/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/bhaviishya30/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaviishya30/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhaviishya30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String Matching
 |  |
 | ------- |
