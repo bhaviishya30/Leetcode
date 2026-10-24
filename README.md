@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhaviishya30/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3467-transform-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhaviishya30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/bhaviishya30/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhaviishya30/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhaviishya30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/bhaviishya30/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
 |  |
 | ------- |
