@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/bhaviishya30/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/bhaviishya30/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhaviishya30/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhaviishya30/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/bhaviishya30/Leetcode/tree/master/1550-three-consecutive-odds) |
