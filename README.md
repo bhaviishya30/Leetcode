@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhaviishya30/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bhaviishya30/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhaviishya30/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/bhaviishya30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bhaviishya30/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/bhaviishya30/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bhaviishya30/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/bhaviishya30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhaviishya30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/bhaviishya30/Leetcode/tree/master/0389-find-the-difference) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bhaviishya30/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/bhaviishya30/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bhaviishya30/Leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
