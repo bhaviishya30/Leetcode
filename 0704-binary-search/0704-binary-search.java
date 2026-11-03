@@ -1,21 +1,15 @@
 class Solution {
     public int search(int[] nums, int target) {
-    int start=0;
-    int end = nums.length-1;
-    int mid=0;
-    while(start<=end){
-        mid=(start+end)/2;
-        if(nums[mid]==target){
-            return mid;
-        }
-        if(target>nums[mid]){
-            start=mid+1;
-        }
-        if(target<nums[mid]){
-            end=mid-1;
-        }
-        
+        int n = nums.length;
+      return helper(nums,target,0,n-1);
     }
-    return -1;
+    public static int helper(int[] nums, int target, int lo, int hi){
+        if(lo>hi) return -1;
+        int mid = lo+(hi-lo)/2;
+        if(nums[mid]==target) return mid;
+        if(nums[mid]>target) return helper(nums,target,lo,mid-1);
+        if(nums[mid]<target) return helper(nums,target,mid+1,hi);
+         return -1;
     }
+
 }
