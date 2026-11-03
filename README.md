@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhaviishya30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/bhaviishya30/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhaviishya30/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/bhaviishya30/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/bhaviishya30/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/bhaviishya30/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3813-vowel-consonant-score](https://github.com/bhaviishya30/Leetcode/tree/master/3813-vowel-consonant-score) |
+| [3925-concatenate-array-with-reverse](https://github.com/bhaviishya30/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
