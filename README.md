@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhaviishya30/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/bhaviishya30/Leetcode/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3099-harshad-number](https://github.com/bhaviishya30/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhaviishya30/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhaviishya30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhaviishya30/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
