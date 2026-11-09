@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhaviishya30/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhaviishya30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bhaviishya30/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1534-count-good-triplets](https://github.com/bhaviishya30/Leetcode/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/bhaviishya30/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/bhaviishya30/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhaviishya30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/bhaviishya30/Leetcode/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/bhaviishya30/Leetcode/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhaviishya30/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/bhaviishya30/Leetcode/tree/master/2951-find-the-peaks) |
