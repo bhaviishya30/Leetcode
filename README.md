@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bhaviishya30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhaviishya30/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bhaviishya30/Leetcode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/bhaviishya30/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/bhaviishya30/Leetcode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhaviishya30/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/bhaviishya30/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
