@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/bhaviishya30/Leetcode/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhaviishya30/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bhaviishya30/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhaviishya30/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhaviishya30/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/bhaviishya30/Leetcode/tree/master/3813-vowel-consonant-score) |
 ## Sorting
